@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Coursera Capstone Week1
+# Coursera_Applied_Capstone
+Coursera Appliep Capstone The Battle of the Neighbordhoods
